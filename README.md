@@ -1,8 +1,10 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" alt="waving hand" />
+  <a href="https://jalcantara.web.app/" title="Visit my portfolio">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" alt="👋" />
+  </a>
   Hi there!
 </h1>
-<p align="center">🌟 Tech & Data Enthusiast </p>
+
 
 ---
 
@@ -11,10 +13,7 @@
   <a href="https://linkedin.com/in/jodi-a-b21b83230" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://jalcantara.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefox-browser&logoColor=orange" alt="Portfolio Website"/>
-  </a>
-</p>
+
 
 ---
 
